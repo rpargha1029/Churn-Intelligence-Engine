@@ -1,0 +1,18 @@
+name: churnengine
+channels:
+- defaults
+- conda-forge
+dependencies:
+- python=3.10
+- pip
+- numpy
+- pandas
+- scikit-learn
+- matplotlib
+- seaborn
+- xgboost=1.7.6
+- shap
+- joblib
+- streamlit
+- pip:
+- optuna

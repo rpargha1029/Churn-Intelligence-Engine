@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.env
+models/
+*.joblib
+.ipynb_checkpoints/
+data/processed/
